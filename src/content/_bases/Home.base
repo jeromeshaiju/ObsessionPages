@@ -1,3 +1,4 @@
+defaultView: "Posts"
 formulas:
   Slug: |-
     if(file.folder == "posts", "/posts/" + file.name.replace(".md", ""), 
