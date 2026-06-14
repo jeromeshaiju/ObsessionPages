@@ -5,7 +5,7 @@ import { defineConfig } from './src/helpers/config-helper';
 
 export default defineConfig({
   lang: 'en-US',
-  site: 'https://slate-blog-demo.vercel.app',
+  site: 'https://obsessionpages.netlify.app/blog/about-slate-blog/',
   avatar: '/avatar.png',
   title: 'Obsession Pages',
   description: 'Pure thoughts.',
