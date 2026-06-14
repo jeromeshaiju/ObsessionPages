@@ -6,9 +6,13 @@ tags:
 draft: false
 ---
 
+
 # Introduction
 This has been my attempt on building a genetic algorithm.
 Genetic algorithm has been used in many ways especially in the fields of Machine Learning & AI,  Finance & Project Management and most of all Game Development. This blog is designed in a way that its easy for anyone to understand how a genetic function may work. Hope my work is useful to all who came to learn.
+
+# What is Knapsack Problem
+The Knapsack Problem is a classic optimization puzzle in computer science and mathematics. Imagine you have a backpack (knapsack) with a fixed weight capacity, and you have a set of items, each with a specific weight and value. The goal is to determine which items to include so that the total weight is less than or equal to the limit, and the total value is as large as possible.
 
 
 *If you found any errors in my explanation pls feel free to send me a email.*
