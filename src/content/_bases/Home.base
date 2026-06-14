@@ -1,4 +1,4 @@
-defaultView: Posts
+defaultView: " Posts "
 filters:
   and:
     - file.ext == "md"
