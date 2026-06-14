@@ -1,5 +1,5 @@
 ---
-title: THIS IS A BLOG ABOUT ME...(JEROME SHAIJU)
+title: "this is a blog about me"
 pubDate: 2026-06-08
 description: I LIKE TO DO STUFF
 tags:
@@ -9,6 +9,7 @@ tags:
   - nvm_I_cant_stop_talking_about_me
 draft: false
 ---
+
 # About Me & My Projects
 
 ## Who I Am

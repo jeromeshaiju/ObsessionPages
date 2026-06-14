@@ -1,10 +1,11 @@
 ---
-title: MY IMPEMENTATION OF GENETIC ALGORITHM
+title: "my implementation of genetic algorithm for solving Knaps Problem"
 pubDate: 2026-06-14
 description: ""
-tags: []
+tags:
 draft: false
 ---
+
 # Introduction
 This has been my attempt on building a genetic algorithm.
 Genetic algorithm has been used in many ways especially in the fields of Machine Learning & AI,  Finance & Project Management and most of all Game Development. This blog is designed in a way that its easy for anyone to understand how a genetic function may work. Hope my work is useful to all who came to learn.
