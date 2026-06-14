@@ -1,7 +1,10 @@
 ---
 title: my solution to knapsacks problem
 description: The Knapsack Problem is a classic optimization puzzle in computer science and mathematics. Imagine you have a backpack (knapsack) with a fixed weight capacity, and you have a set of items, each with a specific weight and value. The goal is to determine which items to include so that the total weight is less than or equal to the limit, and the total value is as large as possible.
-tags: []
+tags:
+  - Python
+  - knapsacks-problem
+  - genetic-algorithm
 pubDate: 2026-06-14
 draft: false
 ---
