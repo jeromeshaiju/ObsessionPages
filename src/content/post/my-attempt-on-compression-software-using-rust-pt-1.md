@@ -1,5 +1,5 @@
 ---
-title: MY ATTEMPT ON COMPRESSION SOFTWARE USING RUST PT 1
+title: MY ATTEMPT ON COMPRESSION SOFTWARE USING RUST
 description: This is my attempt on building a compression software using Rust
 tags:
   - RUST
