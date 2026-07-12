@@ -1,7 +1,12 @@
 ---
 title: HERMES AGENT SETUP
-description: ""
-tags: []
+description: This is a complete tutorial on how to set up hermes agent in windows opperating system
+tags:
+  - Tutorial
+  - HermesAgent
+  - setup
+  - AI
+  - AGENTICAI
 pubDate: 2026-07-12
 draft: false
 ---
