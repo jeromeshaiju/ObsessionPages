@@ -48,6 +48,8 @@ views:
     filters:
       and:
         - file.folder.startsWith("post")
+    order:
+      - file.name
     sort:
       - property: pubDate
         direction: DESC
