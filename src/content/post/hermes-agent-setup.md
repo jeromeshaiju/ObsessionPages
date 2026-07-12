@@ -1,9 +1,9 @@
 ---
-title: "HERMES AGENT SETUP"
+title: HERMES AGENT SETUP
 description: ""
 tags: []
 pubDate: 2026-07-12
-draft: true
+draft: false
 ---
 # HERMES AGENT — WINDOWS SETUP RITUAL 
 
